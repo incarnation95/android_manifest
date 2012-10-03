@@ -29,7 +29,7 @@
   <project path="device/generic/goldfish" name="CNA/android_device_generic_goldfish" remote="github" revision="jellybean" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/samsung/t1" name="thecodebox/android_device_samsung_i9100g" remote="github" revision="jellybean" />
+  <project path="device/samsung/i9100g" name="thecodebox/android_device_samsung_i9100g" remote="github" revision="jellybean" />
 
   <project path="device/sample" name="device/sample" />
 

@@ -324,7 +324,7 @@
   <project path="vendor/cna" name="thecodebox/proprietary_vendor_cna" remote="github" revision="jellybean" />
   <project path="vendor/akm" name="CNA/proprietary_vendor_akm" remote="github" revision="jellybean" />
   <project path="vendor/broadcom" name="CNA/proprietary_vendor_broadcom" remote="github" revision="jellybean" />
-  <project path="vendor/samsung/i9100g" name="CNA/android_vendor_samsung_i9100g" remote="github" revision="jellybean" />
+  <project path="vendor/samsung/i9100g" name="thecodebox/android_vendor_samsung_i9100g" remote="github" revision="jellybean" />
 
 
   <project path="tools" name="CNA/android_tools" remote="github" revision="jellybean" />

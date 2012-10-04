@@ -321,7 +321,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" revision="jellybean" />
 
-  <project path="vendor/cna" name="CNA/proprietary_vendor_cna" remote="github" revision="jellybean" />
+  <project path="vendor/cna" name="thecodebox/proprietary_vendor_cna" remote="github" revision="jellybean" />
   <project path="vendor/akm" name="CNA/proprietary_vendor_akm" remote="github" revision="jellybean" />
   <project path="vendor/broadcom" name="CNA/proprietary_vendor_broadcom" remote="github" revision="jellybean" />
   <project path="vendor/samsung/i9100g" name="CNA/android_vendor_samsung_i9100g" remote="github" revision="jellybean" />

@@ -269,7 +269,6 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
-  <project path="packages/apps/Welcomescreen" name="/thecodebox/packages_apps_welcomescreen" remote="github" />
 
   <project path="pdk" name="platform/pdk" />
   <project path="prebuilt" name="platform/prebuilt" />
@@ -333,5 +332,6 @@
   <project path="android" name="CNA/android_manifest" remote="github" revision="jellybean" />
 
   <project path="kernel/samsung/t1" name="thecodebox/android_kernel_samsung_t1" remote="github" revision="jellybean" />
+  <project path="packages/apps/Welcomescreen" name="thecodebox/packages_apps_welcomescreen" remote="github" revision="master" />
 
 </manifest>

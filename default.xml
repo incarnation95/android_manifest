@@ -22,7 +22,6 @@
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="CNA/android_dalvik" remote="github" revision="jellybean" />
   <project path="development" name="CNA/android_development" remote="github" revision="jellybean" />
-  <project path="device/asus/grouper" name="CNA/android_device_asus_grouper" remote="github" revision="jellybean" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="CNA/android_device_generic_armv7-a-neon" remote="github" revision="jellybean" />
   <project path="device/generic/armv7-a" name="CNA/android_device_generic_armv7-a" remote="github" revision="jellybean" />

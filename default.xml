@@ -335,7 +335,7 @@
   <project path="packages/apps/Welcomescreen" name="thecodebox/packages_apps_welcomescreen" remote="github" revision="master" />
 
   <project path="vendor/codebox" name="thecodebox/android_vendor_codebox" remote="github" revision="master" />
-  <project path="" name="thecodebox/android_buildscript" remote="github" revision="master" />
+  <project path="/" name="thecodebox/android_buildscript" remote="github" revision="master" />
 
 
 

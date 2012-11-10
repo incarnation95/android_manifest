@@ -347,6 +347,6 @@
 
   <project path="kernel/samsung/t1" name="thecodebox/android_kernel_samsung_t1" remote="github" revision="jellybean" />
   <project path="kernel/samsung/ics-ramdisk" name="stratosk/ics-ramdisk" remote="github" revision="master" />
-  <project path="stratosk/samsung-kernel-aries" name="kernel/samsung/samsung-kernel-aries" remote="github" revision="jellybean" />
+  <project path="kernel/samsung/samsung-kernel-aries" name="stratosk/samsung-kernel-aries" remote="github" revision="jellybean" />
 
 </manifest>
